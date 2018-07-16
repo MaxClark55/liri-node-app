@@ -1,0 +1,29 @@
+Used movie-this to find: 
+Title: The Boondock Saints
+Year: 1999 
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 91% 
+Country:USA, Canada
+Language: English 
+Plot: Two Irish brothers accidentally kill mafia thugs. They turn themselves in and are released as heroes. 
+Actor(s):Willem Dafoe, Sean Patrick Flanery, Norman Reedus, David Della Rocco, Billy Connolly
+--------------------
+Used movie-this to find: 
+Title: Mr. Nobody 
+Year: 2009 
+IMDB Rating: 7.9 
+Rotten Tomatoes Rating: 66% 
+Country:Belgium, Germany, Canada, France, USA, UK 
+Language: English, Mohawk 
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+Actor(s): Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+--------------------
+Title: Training Day
+Year: 2001
+IMDB Rating: 7.7
+Rotten Tomatoes Rating: 72%
+Country: USA, Australia
+Language: English, Russian, Spanish, Korean
+Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the LAPD with a rogue detective who isn't what he appears to be.
+Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger 
+--------------------
